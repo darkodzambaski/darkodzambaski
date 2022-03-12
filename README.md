@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, thanks for your visit 👋
+### I'm Darko Dzambaski
+
+- :computer::mortar_board::man: Faculty of Computer Science and Engineering
+- 🔭 I’m currently working on EShop Web Application
 
 <!--
 **darkodzambaski/darkodzambaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

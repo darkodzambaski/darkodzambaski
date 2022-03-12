@@ -1,7 +1,7 @@
 ### Hi there, thanks for your visit 👋
 ### I'm Darko Dzambaski
 
-- :computer::mortar_board::man: Faculty of Computer Science and Engineering
+- :computer::mortar_board::man: Student at Faculty of Computer Science and Engineering
 - 🔭 I’m currently working on EShop Web Application
 
 <!--
